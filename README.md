@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋 I'm Dipak Rathod
 
-<!--
-**dipakrathod-dev/dipakrathod-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Engineering Student from India
 
-Here are some ideas to get you started:
+🚀 Frontend Developer passionate about building modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS
+- JavaScript
+- React
+- Tailwind CSS
+- Git & GitHub
+
+## 📚 Currently Learning
+
+- Advanced React
+- API Integration
+- Cloud Computing
+
+## 🎯 2026 Goals
+
+- Build 10+ Real Projects
+- Start Freelancing
+- Get My First International Client 🌍
+
+Thanks for visiting my profile! ⭐
