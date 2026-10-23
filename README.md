@@ -1,28 +1,39 @@
-# Hi 👋 I'm Dipak Rathod
+# Hi, I'm Dipak Rathod 👋
 
-💻 Computer Engineering Student from India
+### React Frontend Developer | Responsive websites and dashboards
 
-🚀 Frontend Developer passionate about building modern web applications.
+I'm a Computer Engineering student from Maharashtra, India. I build responsive web interfaces with React, JavaScript, and Tailwind CSS, and connect them to Firebase when a project needs authentication or data storage.
 
-## 🛠️ Tech Stack
+## Featured work
 
-- HTML5
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
-- Git & GitHub
+### ClientFlow Dashboard
 
-## 📚 Currently Learning
+A responsive freelancer dashboard with protected sign-in and per-user client management using Firebase Authentication and Firestore. Project and invoice screens contain sample data.
 
-- Advanced React
-- API Integration
-- Cloud Computing
+- [Live dashboard](https://clientflow-dashboard-dev.vercel.app/)
+- [Source code](https://github.com/dipakrathod-dev/clientflow-dashboard)
 
-## 🎯 2026 Goals
+### Portfolio Website
 
-- Build 10+ Real Projects
-- Start Freelancing
-- Get My First International Client 🌍
+A responsive portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
 
-Thanks for visiting my profile! ⭐
+- [View portfolio](https://portfolio-virid-ten-90.vercel.app/)
+- [Source code](https://github.com/dipakrathod-dev/portfolio)
+
+## What I work with
+
+- **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
+- **App features:** React Router, Firebase Authentication, Cloud Firestore
+- **UI and charts:** Framer Motion, Recharts
+- **Workflow:** Git, GitHub, Vite, Vercel
+
+## Focus areas
+
+- Responsive React websites and landing pages
+- Dashboard UI and reusable components
+- Forms, search, and data-driven interfaces
+- Firebase Authentication and Firestore integration
+
+## Contact
+
+[Portfolio and contact form](https://portfolio-virid-ten-90.vercel.app/) · [Email](mailto:dipakrathod.work@gmail.com)
