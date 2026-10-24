@@ -8,7 +8,8 @@ I'm a Computer Engineering student from Maharashtra, India. I build responsive w
 
 ### ClientFlow Dashboard
 
-A responsive freelancer dashboard with protected sign-in and per-user client management using Firebase Authentication and Firestore. Project and invoice screens contain sample data.
+A responsive freelancer dashboard with protected sign-in and per-user client,
+project, and invoice management using Firebase Authentication and Firestore.
 
 - [Live dashboard](https://clientflow-dashboard-dev.vercel.app/)
 - [Source code](https://github.com/dipakrathod-dev/clientflow-dashboard)
@@ -24,7 +25,7 @@ A responsive portfolio built with React, Vite, Tailwind CSS, and Framer Motion.
 
 - **Frontend:** React, JavaScript, HTML, CSS, Tailwind CSS
 - **App features:** React Router, Firebase Authentication, Cloud Firestore
-- **UI and charts:** Framer Motion, Recharts
+- **UI and charts:** Framer Motion, Recharts, live Firestore-backed dashboard trends
 - **Workflow:** Git, GitHub, Vite, Vercel
 
 ## Focus areas
